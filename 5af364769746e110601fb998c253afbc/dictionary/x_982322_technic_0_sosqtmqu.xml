@@ -5,5 +5,6 @@
             <choice/>
         </element>
         <element label="N_FLAG_PIECE_SENSIBLE" max_length="40" name="n_flag_piece_sensible" type="integer"/>
+        <element label="comment" max_length="40" name="comment" type="string"/>
     </element>
 </database>
