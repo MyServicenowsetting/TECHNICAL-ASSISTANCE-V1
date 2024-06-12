@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">ba53fe0d51218e50356c86143ab996f4</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">b253fe0d21218e50c3c9d2d49ed93df0</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-12 09:39:27</sys_created_on>
+        <sys_id>fa53fe0d1f218e500e628226312b29f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_fa53fe0d1f218e500e628226312b29f0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-12 09:39:27</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

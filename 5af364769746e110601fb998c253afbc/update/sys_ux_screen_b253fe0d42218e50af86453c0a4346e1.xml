@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Custom Portal App Config">2653fe0d47218e504008d921236d43a7</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">3253fe0d91218e504ec4a1e4c89725e6</macroponent>
+        <macroponent_config>{
+  "sysId" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "sysId" ],
+      "category" : "props"
+    }
+  },
+  "table" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "table" ],
+      "category" : "props"
+    }
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Attachment Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">7253324d8e218e502354f78e0872cf09</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Attachments">f653324d1f218e50614aa35a7aa70909</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-12 09:39:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b253fe0d42218e50af86453c0a4346e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_screen_b253fe0d42218e50af86453c0a4346e1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-12 09:39:26</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b253fe0d42218e50af86453c0a4346e1"/>
+</record_update>

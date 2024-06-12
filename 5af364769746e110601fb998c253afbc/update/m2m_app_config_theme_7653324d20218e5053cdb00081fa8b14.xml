@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">ba53324d9a218e50bbb6d5d59d7b2b12</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-12 09:39:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7653324d20218e5053cdb00081fa8b14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>m2m_app_config_theme_7653324d20218e5053cdb00081fa8b14</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-12 09:39:26</sys_updated_on>
+        <theme display_value="Light Theme">7e53324dbf218e5017b02632b90e3212</theme>
+        <ux_app_configuration display_value="Custom Portal App Config">2653fe0d47218e504008d921236d43a7</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

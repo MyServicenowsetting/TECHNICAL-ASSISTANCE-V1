@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,opened_by</field_list>
+        <name>My Requests (task) predicate</name>
+        <order/>
+        <predicate_bundle display_value="My Requests (task) bundle">f253fe0d41218e50d5843b232e3ec4ec</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-12 09:39:28</sys_created_on>
+        <sys_id>ba53fe0d27218e50db234e94723f1eeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests (task) predicate</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_ba53fe0d27218e50db234e94723f1eeb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-12 09:39:28</sys_updated_on>
+        <table>task</table>
+        <ux_template display_value="My Requests (task) template">fe53fe0d1d218e50a7ebb9640a6d5def</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>
