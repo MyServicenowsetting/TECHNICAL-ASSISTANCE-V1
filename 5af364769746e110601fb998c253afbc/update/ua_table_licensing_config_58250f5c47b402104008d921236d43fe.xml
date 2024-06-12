@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_982322_technic_0_sosqtmqu</name>
+        <name>x_982322_technic_0_sosqtarq</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-09 17:45:48</sys_created_on>
-        <sys_id>85f33c0d9743f510601fb998c253af0f</sys_id>
+        <sys_created_on>2023-10-23 19:52:39</sys_created_on>
+        <sys_id>58250f5c47b402104008d921236d43fe</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_982322_technic_0_sosqtmqu</sys_name>
+        <sys_name>x_982322_technic_0_sosqtarq</sys_name>
         <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
-        <sys_update_name>ua_table_licensing_config_85f33c0d9743f510601fb998c253af0f</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_58250f5c47b402104008d921236d43fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 17:45:48</sys_updated_on>
+        <sys_updated_on>2023-10-23 19:52:39</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

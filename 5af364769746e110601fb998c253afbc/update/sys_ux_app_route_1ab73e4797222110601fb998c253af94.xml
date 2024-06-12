@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
     <sys_ux_app_route action="INSERT_OR_UPDATE">
-        <app_config display_value="DSR">11e11e9097816110601fb998c253af99</app_config>
+        <app_config display_value="">11e11e9097816110601fb998c253af99</app_config>
         <description/>
         <extension_point/>
         <fields>table,sysId</fields>

@@ -3989,4 +3989,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-14 10:18:45</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=4952899597487110601fb998c253afc7"/>
 </record_update>

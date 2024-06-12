@@ -31,6 +31,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>background_image</file_name>
         <hash>5a3c3272e1182d261e5e4a2db24091e0b2aeec59294edb2fecf5db70749ac42e</hash>
         <image_height>3024</image_height>

@@ -811,4 +811,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-07-29 19:10:12</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=80db0c9e1898b11069330064c508b780"/>
 </record_update>

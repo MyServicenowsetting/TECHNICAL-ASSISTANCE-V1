@@ -24,4 +24,5 @@
         <template_categories>other</template_categories>
         <type/>
     </sys_uib_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=9705a8b6ed46e110437d39b77a932abf"/>
 </record_update>

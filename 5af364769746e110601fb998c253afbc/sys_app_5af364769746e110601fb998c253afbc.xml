@@ -16,6 +16,7 @@
         <logo>f6f3ec729746e110601fb998c253af3b</logo>
         <menu/>
         <name>Technical Assistance Version 1</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -42,11 +43,13 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=5af364769746e110601fb998c253afbc"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color/>
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>STELLANTIS.png</file_name>
         <hash>bcd54901a437df1aab474c6dd41073c3857bef19f525883701e303de6020fa5a</hash>
         <image_height/>

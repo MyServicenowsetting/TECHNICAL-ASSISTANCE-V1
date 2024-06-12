@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="MID Server Dashboard">5f3e10520f003010ce4d142386767e16</dashboard>
+        <delete>true</delete>
+        <group/>
+        <identity>pa_power_user</identity>
+        <read>true</read>
+        <role display_value="pa_power_user" name="pa_power_user">05dc30b3bf101100b96dac808c07392b</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-12 18:43:37</sys_created_on>
+        <sys_id>3c034e8397132110601fb998c253af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_power_user</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_3c034e8397132110601fb998c253af4f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-12 18:43:37</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</application>
+        <file_path/>
+        <instance_id>747b90c7db8cb410ad8dd7c8f4961961</instance_id>
+        <instance_name>dev116673</instance_name>
+        <name>pa_dashboards_permissions_3c034e8397132110601fb998c253af4f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="MID Server Dashboard">5f3e10520f003010ce4d142386767e16</dashboard>
+        <delete>true</delete>
+        <group/>
+        <identity>pa_power_user</identity>
+        <read>true</read>
+        <role display_value="pa_power_user" name="pa_power_user">05dc30b3bf101100b96dac808c07392b</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-12 18:43:37</sys_created_on>
+        <sys_id>3c034e8397132110601fb998c253af4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_power_user</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_3c034e8397132110601fb998c253af4f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-12 18:43:37</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>]]></payload>
+        <payload_hash>-1846318112</payload_hash>
+        <record_name>pa_power_user</record_name>
+        <reverted_from/>
+        <source>6f15cb5c47b402104008d921236d4343</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 20:15:17</sys_created_on>
+        <sys_id>1345cbdc47b402104008d921236d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e05f4dd1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 20:15:17</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>df45cbdca2b402101138eba781645c8b</update_guid>
+        <update_guid_history>df45cbdca2b402101138eba781645c8b:-1846318112</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="pa_power_user">2270bd99470a4e904008d921236d433d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 19:57:05</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>3c361f66fe5a460ba1c684c3f8b75829</sys_id>
+        <sys_metadata>3c034e8397132110601fb998c253af4f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_power_user</sys_name>
+        <sys_package display_value="Technical Assistance Version 1" source="x_982322_technic_0">5af364769746e110601fb998c253afbc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Version 1">5af364769746e110601fb998c253afbc</sys_scope>
+        <sys_scope_delete display_value="">5935b45dab414a908b201722e1830900</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_3c034e8397132110601fb998c253af4f</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_3c034e8397132110601fb998c253af4f">1345cbdc47b402104008d921236d438c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 19:57:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

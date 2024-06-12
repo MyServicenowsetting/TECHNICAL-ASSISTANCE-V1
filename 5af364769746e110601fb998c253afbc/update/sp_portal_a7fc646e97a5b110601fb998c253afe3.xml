@@ -24,6 +24,7 @@ $text-muted:#a18f92;
         <dark_theme/>
         <default>false</default>
         <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
@@ -65,6 +66,7 @@ $text-muted:#a18f92;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>icon</file_name>
         <hash>5a53126451f8b3f7adfbe70045863c988ec1725f5dea872738117f42835073da</hash>
         <image_height>1044</image_height>
@@ -104,6 +106,7 @@ $text-muted:#a18f92;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <hash>5a53126451f8b3f7adfbe70045863c988ec1725f5dea872738117f42835073da</hash>
         <image_height>1044</image_height>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
     <par_dashboard_tab action="INSERT_OR_UPDATE">
         <active>true</active>
+        <background_color/>
         <dashboard display_value="Technical Assistance Version No Code">7230ed58610231105d2133f0aff48980</dashboard>
         <name>Tab</name>
         <order>0</order>
@@ -8,6 +9,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-18 20:01:03</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>be30ed58610231102f4955d5b7f3337f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Tab</sys_name>
